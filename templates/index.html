@@ -1,0 +1,33 @@
+<!doctype html>
+<title>Upload pdf</title>
+<h1>Загрузите pdf файл</h1>
+
+
+<p style="width: 600px">
+    На данный момент мы используем заданную структуру данных в виде схемы которую мы хотим
+    получить обратно заполненной,
+    в реальной апи можно добавить в запрос два параметра
+
+    <p>
+    1. pdf,
+    </p>
+
+    <p>
+        2. схему в которую нужно его разобрать,
+    </p>
+
+     Таким образом, получим универсальный
+    распознаватель документов
+</p>
+
+<form method="post" action="/process" enctype="multipart/form-data">
+    <input type="file" name="file">
+    <input type="submit" value="Upload">
+</form>
+<div id="loading" style="display:none;">Processing... Please wait.</div>
+<script>
+    const form = document.querySelector('form');
+    form.addEventListener('submit', () => {
+      document.getElementById('loading').style.display = 'block';
+    });
+</script>

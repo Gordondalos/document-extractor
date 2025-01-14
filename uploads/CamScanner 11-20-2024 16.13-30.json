@@ -1,0 +1,29 @@
+{
+    "supplier": {
+        "name": "CoCo RiVa General Trading LLC",
+        "address": "AL Rigga\nDubai,",
+        "email": "cocoriva@hotmail.com"
+    },
+    "invoice": {
+        "invoice_number": null,
+        "invoice_date": "19-10-2024",
+        "sale_man": null,
+        "payment_mode": null,
+        "mobile": "042888406, 0558915852"
+    },
+    "charges": {
+        "delivery_charges": null,
+        "labour_charges": null,
+        "total_amount": 30.0
+    },
+    "bank_details": [],
+    "items": [
+        {
+            "description": "USB Cable L-S",
+            "quantity or Qty": "1 pcs",
+            "rate or price": "30.00",
+            "tax or vat": "0.00",
+            "amount": "30.00"
+        }
+    ]
+}

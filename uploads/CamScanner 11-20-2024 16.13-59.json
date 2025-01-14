@@ -1,0 +1,36 @@
+{
+    "supplier": {
+        "name": "Cater Pack Trading LLC",
+        "address": "P.O Box: 62419, Al Qusais, Emirate: Dubai",
+        "email": null
+    },
+    "invoice": {
+        "invoice_number": "CTR-52229",
+        "invoice_date": "26-10-2024",
+        "sale_man": "Shihab: +971 55 124 9228",
+        "payment_mode": null,
+        "mobile": null
+    },
+    "charges": {
+        "delivery_charges": null,
+        "labour_charges": null,
+        "total_amount": 245.7
+    },
+    "bank_details": [],
+    "items": [
+        {
+            "description": "Vinyl Gloves Large Black PF 10X100 Pcs",
+            "quantity or Qty": "2 Ctn",
+            "rate or price": "90.00",
+            "tax or vat": "5%",
+            "amount": "180.00"
+        },
+        {
+            "description": "Piping Bag Roll Clear 55CM 1X100",
+            "quantity or Qty": "2 Nos",
+            "rate or price": "27.00",
+            "tax or vat": "5%",
+            "amount": "54.00"
+        }
+    ]
+}

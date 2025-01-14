@@ -1,0 +1,71 @@
+{
+    "supplier": {
+        "name": "Wahat Al aweer Foodstuff Trading L.L.C.",
+        "address": "Fruits & Veg Market, Aweer P.O. Box: 235571, Dubai, U.A.E.",
+        "email": "info@wahatalaweer.com"
+    },
+    "invoice": {
+        "invoice_number": "SI/121806",
+        "invoice_date": "25/10/2024",
+        "sale_man": null,
+        "payment_mode": "CASH ON DELIVERY",
+        "mobile": "+97150 71 93 539"
+    },
+    "charges": {
+        "delivery_charges": null,
+        "labour_charges": null,
+        "total_amount": 63.58
+    },
+    "bank_details": [
+        {
+            "bank_name": "ADCB",
+            "account_number": "11781939820001",
+            "swift_code": null,
+            "iban": "AE720030011781939820001"
+        }
+    ],
+    "items": [
+        {
+            "description": "STRAWBERRY IMPORTED",
+            "quantity or Qty": "0.50",
+            "rate or price": "38.00",
+            "tax or vat": null,
+            "amount": "19.00"
+        },
+        {
+            "description": "LETTUCE ICEBERG",
+            "quantity or Qty": "3.80",
+            "rate or price": "7.00",
+            "tax or vat": null,
+            "amount": "26.60"
+        },
+        {
+            "description": "GINGER",
+            "quantity or Qty": "0.40",
+            "rate or price": "12.50",
+            "tax or vat": null,
+            "amount": "5.00"
+        },
+        {
+            "description": "GARLIC PEELED",
+            "quantity or Qty": "0.20",
+            "rate or price": "10.00",
+            "tax or vat": null,
+            "amount": "2.00"
+        },
+        {
+            "description": "APPLE GREEN",
+            "quantity or Qty": "1.00",
+            "rate or price": "4.95",
+            "tax or vat": null,
+            "amount": "4.95"
+        },
+        {
+            "description": "CARROTS",
+            "quantity or Qty": "1.00",
+            "rate or price": "3.00",
+            "tax or vat": null,
+            "amount": "3.00"
+        }
+    ]
+}

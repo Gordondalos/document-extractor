@@ -1,0 +1,36 @@
+{
+  "supplier": {
+    "name": "string",
+    "address": "string",
+    "email": "string"
+  },
+  "invoice": {
+    "invoice_number": "string",
+    "invoice_date": "string",
+    "sale_man": "string",
+    "payment_mode": "string",
+    "mobile": "string"
+  },
+  "charges": {
+    "delivery_charges": "float",
+    "labour_charges": "float",
+    "total_amount": "float"
+  },
+  "bank_details": [
+    {
+      "bank_name": "string",
+      "account_number": "string",
+      "swift_code": "string",
+      "iban": "string"
+    }
+  ],
+  "items": [
+    {
+      "description": "string",
+      "quantity or Qty": "string",
+      "rate or price": "string",
+      "tax or vat": "string",
+      "amount": "string"
+    }
+  ]
+}
