@@ -1,0 +1,28 @@
+{
+  "invoice_details": {
+    "subject": "",
+    "invoice_date": "",
+    "due_date": "11/10/2024",
+    "payment_conditions": "",
+    "notes": ""
+  },
+  "contact_details": {
+    "to": "",
+    "phone": "+971 4 3470200 Fax: +971 4 347 0700",
+    "address": ""
+  },
+  "banking_details": {
+    "account_name": "Greenview Agriculture LLC",
+    "account_number": "3707482173302",
+    "iban": "AE960340003707482173302",
+    "swift": "EBILAEADXXX"
+  },
+  "items": [
+    {
+      "description": "",
+      "quantity": "",
+      "rate": "",
+      "tax": ""
+    }
+  ]
+}

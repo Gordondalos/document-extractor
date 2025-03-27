@@ -1,0 +1,29 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 19.95
+    },
+    "invoice": {
+      "invoice_date": "17/10/24",
+      "invoice_number": "10656969",
+      "mobile": null,
+      "payment_mode": "EFT Cards",
+      "sale_man": null
+    },
+    "items": [
+      {
+        "amount": "19.95",
+        "description": "SLICED BRIOCHE LOAF WIFRESH EG",
+        "quantity or Qty": "1PC",
+        "rate or price": "19.95",
+        "tax or vat": "0.95"
+      }
+    ],
+    "supplier": {
+      "address": null,
+      "email": null,
+      "name": null
+    }
+  }

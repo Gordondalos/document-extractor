@@ -1,0 +1,36 @@
+{
+    "bank_details": [
+      {
+        "account_number": "1002389425",
+        "bank_name": "COMMERCIAL BANK OF DUBAI",
+        "iban": "AE560230000001002389425",
+        "swift_code": "CBDUAEAD"
+      }
+    ],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 514.5
+    },
+    "invoice": {
+      "invoice_date": "17-Oct-24",
+      "invoice_number": "PRD-102068",
+      "mobile": null,
+      "payment_mode": "CASH PAYMENT",
+      "sale_man": "SAYED AMIR NASEER"
+    },
+    "items": [
+      {
+        "amount": "490.00",
+        "description": "WAGYU BURGER PATTIES",
+        "quantity or Qty": "7.00",
+        "rate or price": "70.00",
+        "tax or vat": "5"
+      }
+    ],
+    "supplier": {
+      "address": "Plot No.369-417, Al Quoz Industrial Area 4th, Umm Suqeim Street, DUBAI, 25689, UAE",
+      "email": "sales@chi.ae",
+      "name": "COUNTRY HILL INTERNATIONAL MEAT PRODUCTS MANUFACTURING LLC"
+    }
+  }

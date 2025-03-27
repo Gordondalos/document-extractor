@@ -1,36 +1,140 @@
 {
-  "supplier": {
-    "name": "string",
-    "address": "string",
-    "email": "string"
-  },
-  "invoice": {
-    "invoice_number": "string",
-    "invoice_date": "string",
-    "sale_man": "string",
-    "payment_mode": "string",
-    "mobile": "string"
-  },
-  "charges": {
-    "delivery_charges": "float",
-    "labour_charges": "float",
-    "total_amount": "float"
-  },
-  "bank_details": [
-    {
-      "bank_name": "string",
-      "account_number": "string",
-      "swift_code": "string",
-      "iban": "string"
+  "invoice": { 
+    "metadata": { 
+      "document_type": "tax_invoice|purchase_invoice|receipt", 
+      "scan_date": "YYYY-MM-DD", 
+      "scan_reference": "string", 
+      "processing_status": "pending|processed|error|manual_review" 
+    },
+    "invoice_details": { 
+      "invoice_number": "string", 
+      "invoice_date": "YYYY-MM-DD", 
+      "due_date": "YYYY-MM-DD", 
+      "payment_terms": "string", 
+      "currency": "string", 
+      "reference_number": "string", 
+      "delivery_note_number": "string" 
+    },
+    "issuer": { 
+      "name": "string", 
+      "trn": "string", 
+      "address": { 
+        "street": "string", 
+        "city": "string", 
+        "state": "string", 
+        "country": "string", 
+        "postal_code": "string" 
+      },
+      "contact": { 
+        "name": "string", 
+        "phone": "string", 
+        "email": "string", 
+        "website": "string" 
+      },
+      "bank_details": { 
+        "bank_name": "string", 
+        "account_name": "string", 
+        "account_number": "string", 
+        "iban": "string", 
+        "swift_code": "string", 
+        "branch": "string" 
+      }
+    },
+    "recipient": { 
+      "name": "string", 
+      "recipient_id": "string", 
+      "trn": "string", 
+      "address": { 
+        "street": "string", 
+        "city": "string", 
+        "state": "string", 
+        "country": "string", 
+        "postal_code": "string"
+      },
+      "contact": { 
+        "name": "string", 
+        "phone": "string", 
+        "email": "string" 
+      }
+    },
+    "shipping": { 
+      "ship_to": { 
+        "name": "string", 
+        "address": { 
+          "street": "string", 
+          "city": "string", 
+          "state": "string", 
+          "country": "string", 
+          "postal_code": "string" 
+        }
+      },
+      "delivery_date": "YYYY-MM-DD", 
+      "shipping_method": "string", 
+      "tracking_number": "string", 
+      "driver_name": "string", 
+      "vehicle_number": "string", 
+      "route": "string" 
+    },
+    "line_items": [ 
+      {
+        "item_number": "number", 
+        "item_code": "string", 
+        "description": "string", 
+        "brand": "string", 
+        "quantity": "number", 
+        "unit": "string", 
+        "unit_price": "number", 
+        "discount": "number", 
+        "tax_rate": "number", 
+        "tax_amount": "number", 
+        "net_amount": "number", 
+        "total_amount": "number" 
+      }
+    ],
+    "totals": { 
+      "subtotal": "number", 
+      "discount_total": "number", 
+      "tax_total": "number", 
+      "shipping_charges": "number", 
+      "other_charges": "number", 
+      "grand_total": "number", 
+      "amount_in_words": "string", 
+      "paid_amount": "number", 
+      "balance_due": "number" 
+    },
+    "tax_details": { 
+      "tax_type": "VAT", 
+      "tax_registration_number": "string", 
+      "taxable_amount": "number", 
+      "tax_rate": "number", 
+      "tax_amount": "number" 
+    },
+    "payment": { 
+      "method": "cash|card|bank_transfer|cheque", 
+      "status": "paid|unpaid|partial", 
+      "transaction_reference": "string", 
+      "payment_date": "YYYY-MM-DD"
+          },
+      "bank_transfer_details": { 
+        "reference_number": "string", 
+        "bank_name": "string", 
+        "account_number": "string" 
+      }
+    },
+    "additional_details": { 
+      "notes": "string", 
+      "terms_conditions": "string",
+      "authorization": { 
+        "prepared_by": "string",
+        "checked_by": "string", 
+        "approved_by": "string", 
+        "received_by": "string" 
+      },
+      "custom_fields": { 
+        "field1": "string", 
+        "field2": "string", 
+        "field3": "string" 
+      }
     }
-  ],
-  "items": [
-    {
-      "description": "string",
-      "quantity or Qty": "string",
-      "rate or price": "string",
-      "tax or vat": "string",
-      "amount": "string"
-    }
-  ]
-}
+  }
+ 

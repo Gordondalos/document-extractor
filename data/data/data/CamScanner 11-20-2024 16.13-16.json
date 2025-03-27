@@ -1,0 +1,56 @@
+{
+    "bank_details": [
+      {
+        "account_number": "AE620260001015184535302",
+        "bank_name": "Emirates NBD",
+        "iban": null,
+        "swift_code": "EBILAEAD"
+      },
+      {
+        "account_number": "AE930030010014323920001",
+        "bank_name": "Abu Dhabi Commercial Bank",
+        "iban": null,
+        "swift_code": "ADCBAEAAXXX"
+      }
+    ],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 0.0
+    },
+    "invoice": {
+      "invoice_date": "15/10/2024",
+      "invoice_number": "24087219",
+      "mobile": null,
+      "payment_mode": "Cash",
+      "sale_man": "MOHAMMED MIHAN"
+    },
+    "items": [
+      {
+        "amount": "0.00",
+        "description": "CHICKEN BREAST TENDER 80 GM",
+        "quantity or Qty": "0.50",
+        "rate or price": "0.00",
+        "tax or vat": "0.00"
+      },
+      {
+        "amount": "0.00",
+        "description": "CHICKEN WINGS 2 CUT TENDER",
+        "quantity or Qty": "0.50",
+        "rate or price": "0.00",
+        "tax or vat": "0.00"
+      },
+      {
+        "amount": "0.00",
+        "description": "CHICKEN BREAST STRIPS TENDER 30 GM",
+        "quantity or Qty": "0.50",
+        "rate or price": "0.00",
+        "tax or vat": "0.00"
+      }
+    ],
+    "supplier": {
+      "address": "4,Clover Bay Tower, Business Bay, Dubai, UAE",
+      "email": "info@golden-dunes.com",
+      "name": "unes General Trading LLC."
+    }
+  }

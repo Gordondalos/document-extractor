@@ -1,0 +1,71 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 109.36
+    },
+    "invoice": {
+      "invoice_date": null,
+      "invoice_number": null,
+      "mobile": null,
+      "payment_mode": "VISA CARD",
+      "sale_man": null
+    },
+    "items": [
+      {
+        "amount": null,
+        "description": "NANDO'S MED. PP SAUC",
+        "quantity or Qty": "1",
+        "rate or price": "11.50",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "TABASCO PEPPER SAUCE",
+        "quantity or Qty": "1",
+        "rate or price": "12.50",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "BEEF RIB EYE BRZL",
+        "quantity or Qty": "1",
+        "rate or price": "13.51",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "NUTELLA COCOA JAR",
+        "quantity or Qty": "1",
+        "rate or price": "13.95",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "WZ (V) PLSTC BAG",
+        "quantity or Qty": "1",
+        "rate or price": "0.25",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "AVOCADO PACK",
+        "quantity or Qty": "1",
+        "rate or price": "8.95",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "AVOCADO PACK",
+        "quantity or Qty": "1",
+        "rate or price": "8.95",
+        "tax or vat": null
+      }
+    ],
+    "supplier": {
+      "address": null,
+      "email": null,
+      "name": null
+    }
+  }

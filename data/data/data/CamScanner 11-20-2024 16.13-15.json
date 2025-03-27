@@ -1,0 +1,29 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": 0.0,
+      "labour_charges": 0.0,
+      "total_amount": 26.25
+    },
+    "invoice": {
+      "invoice_date": "16/10/20246",
+      "invoice_number": "CI-2410071019",
+      "mobile": "971563771380",
+      "payment_mode": "Cash Payment against company receipts or cross cheque or card swipe only",
+      "sale_man": "MEGAN BARDILLON"
+    },
+    "items": [
+      {
+        "amount": "26.25",
+        "description": "ELLEVIRE COOKING CREAM UHT-1LTR",
+        "quantity or Qty": "1",
+        "rate or price": "25.00",
+        "tax or vat": "5"
+      }
+    ],
+    "supplier": {
+      "address": "P.O. Box 5771, Al Quoz Industrial Area #3Dubai - U.A.E",
+      "email": "info@mhdubai.com",
+      "name": "M.H. ENTERPRISES L.L.C."
+    }
+  }

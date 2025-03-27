@@ -1,0 +1,50 @@
+{
+    "bank_details": [
+      {
+        "account_number": "11781939820001",
+        "bank_name": "ADCB",
+        "iban": "AE720030011781939820001",
+        "swift_code": null
+      }
+    ],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 133.82
+    },
+    "invoice": {
+      "invoice_date": "19/10/2024",
+      "invoice_number": "SI/121214",
+      "mobile": "+971 50 71 93 539 / 056-4706378",
+      "payment_mode": "CASH ON DELIVERY",
+      "sale_man": null
+    },
+    "items": [
+      {
+        "amount": "121.00",
+        "description": "POTATO LARGE IRAN",
+        "quantity or Qty": "22.00",
+        "rate or price": "5.50",
+        "tax or vat": null
+      },
+      {
+        "amount": "4.95",
+        "description": "APPLE GREEN",
+        "quantity or Qty": "1.00",
+        "rate or price": "4.95",
+        "tax or vat": null
+      },
+      {
+        "amount": "1.50",
+        "description": "CARROTS",
+        "quantity or Qty": "0.50",
+        "rate or price": "3.00",
+        "tax or vat": null
+      }
+    ],
+    "supplier": {
+      "address": "Fruits & Veg Market, Aweer P.O. Box: 235571, Dubai, U.A.E.",
+      "email": "fruitstrading@gmail.com / orders@wahatalaweer.com / Info@wahatalaweer.com",
+      "name": "wahat Al aweer Foodstuff Trading L.L.C."
+    }
+  }

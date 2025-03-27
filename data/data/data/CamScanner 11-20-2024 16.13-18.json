@@ -1,0 +1,29 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 53.5
+    },
+    "invoice": {
+      "invoice_date": "17/10/2024",
+      "invoice_number": "0165024101715066550307",
+      "mobile": "04-3420626",
+      "payment_mode": "CASH",
+      "sale_man": "BISHNU MAYA THALANG"
+    },
+    "items": [
+      {
+        "amount": "13.50",
+        "description": "JEL PACK SHEL/EDAM\n\u0641\u0648\u0644 \u0635\u0648\u064a\u0627 \u0623\u064a\u062f \u0627\u0645\u0627\u0645",
+        "quantity or Qty": "1 PC",
+        "rate or price": "13.50",
+        "tax or vat": "64"
+      }
+    ],
+    "supplier": {
+      "address": "Amin Building",
+      "email": null,
+      "name": "supermarkets"
+    }
+  }

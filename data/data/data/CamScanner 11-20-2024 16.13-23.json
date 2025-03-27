@@ -1,0 +1,50 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 248.85
+    },
+    "invoice": {
+      "invoice_date": "18-10-2024",
+      "invoice_number": "CTR-51617",
+      "mobile": null,
+      "payment_mode": null,
+      "sale_man": "Shihab: +971 55 124 9228"
+    },
+    "items": [
+      {
+        "amount": "54.00",
+        "description": "Maxiroll Embossed 2 Ply 600 Grm Each 1x6 Pcs",
+        "quantity or Qty": "2 Bund",
+        "rate or price": "27.00",
+        "tax or vat": "5%"
+      },
+      {
+        "amount": "5.00",
+        "description": "Big Steel Wool 1x6 Pcs",
+        "quantity or Qty": "1 Pkt",
+        "rate or price": "5.00",
+        "tax or vat": "5%"
+      },
+      {
+        "amount": "88.00",
+        "description": "HD Black Garbage Bag 110x130cm 1x18kg",
+        "quantity or Qty": "1 Bund",
+        "rate or price": "88.00",
+        "tax or vat": "5%"
+      },
+      {
+        "amount": "90.00",
+        "description": "Vinyl Gloves Large Black PF 10X100 Pcs",
+        "quantity or Qty": "1 Ctn",
+        "rate or price": "90.00",
+        "tax or vat": "5%"
+      }
+    ],
+    "supplier": {
+      "address": "P.O Box: 624197\nAl Qusais\nDubai",
+      "email": null,
+      "name": "Cater Pack Trading LLC"
+    }
+  }

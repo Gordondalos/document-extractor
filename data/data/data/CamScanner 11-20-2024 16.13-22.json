@@ -1,0 +1,50 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 7.4
+    },
+    "invoice": {
+      "invoice_date": "17/10/2024",
+      "invoice_number": "022591198",
+      "mobile": null,
+      "payment_mode": "CASH",
+      "sale_man": "Cshr-WZ"
+    },
+    "items": [
+      {
+        "amount": null,
+        "description": "CUCUMBER LOOSE",
+        "quantity or Qty": "1",
+        "rate or price": "3.25",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "NESTLE KITKAT CHUNKY",
+        "quantity or Qty": "1",
+        "rate or price": "1.95",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "NESTLE KITKAT CHUNKY",
+        "quantity or Qty": "1",
+        "rate or price": "1.95",
+        "tax or vat": null
+      },
+      {
+        "amount": null,
+        "description": "WESTZONE PLAIN SHOPI",
+        "quantity or Qty": "1",
+        "rate or price": "0.25",
+        "tax or vat": null
+      }
+    ],
+    "supplier": {
+      "address": "Dubai, U.A.E",
+      "email": null,
+      "name": "ONE SUPERMARKET"
+    }
+  }

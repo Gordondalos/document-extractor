@@ -1,0 +1,29 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": null,
+      "labour_charges": null,
+      "total_amount": 12.0
+    },
+    "invoice": {
+      "invoice_date": "2024/10/17",
+      "invoice_number": "116",
+      "mobile": "0585703979",
+      "payment_mode": "CASH",
+      "sale_man": "Stephany"
+    },
+    "items": [
+      {
+        "amount": "12.00",
+        "description": "Brownies box",
+        "quantity or Qty": "1",
+        "rate or price": "12.00",
+        "tax or vat": "0.57"
+      }
+    ],
+    "supplier": {
+      "address": "Bidaa Al Hudaiba St. Al Satwa Dubai, U.A.E",
+      "email": null,
+      "name": "Panda Hub Restaurant LLC"
+    }
+  }

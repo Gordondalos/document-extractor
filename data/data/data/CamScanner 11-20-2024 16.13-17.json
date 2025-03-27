@@ -1,0 +1,50 @@
+{
+    "bank_details": [],
+    "charges": {
+      "delivery_charges": 0.0,
+      "labour_charges": 0.0,
+      "total_amount": 109.36
+    },
+    "invoice": {
+      "invoice_date": "17/10/2024",
+      "invoice_number": "AT0700-2024101708-3620-8",
+      "mobile": null,
+      "payment_mode": "CARD",
+      "sale_man": null
+    },
+    "items": [
+      {
+        "amount": "3.95",
+        "description": "DTC POD Cancellation",
+        "quantity or Qty": null,
+        "rate or price": null,
+        "tax or vat": null
+      },
+      {
+        "amount": "8.51",
+        "description": "POD Paid",
+        "quantity or Qty": null,
+        "rate or price": null,
+        "tax or vat": null
+      },
+      {
+        "amount": "1.20",
+        "description": "Ia Peak",
+        "quantity or Qty": null,
+        "rate or price": null,
+        "tax or vat": null
+      },
+      {
+        "amount": "6.75",
+        "description": "Hala Peak X",
+        "quantity or Qty": null,
+        "rate or price": null,
+        "tax or vat": null
+      }
+    ],
+    "supplier": {
+      "address": null,
+      "email": null,
+      "name": "HUSSAIN GULAB HUSSAIN"
+    }
+  }
